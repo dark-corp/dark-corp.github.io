@@ -1,0 +1,36 @@
+html{
+background-color: #171717;
+}
+.caixa{
+    overflow-y:auto;
+    background-color: #0a0a0a9c;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    height: 600px;
+    width: 420px;
+}
+#c1{
+    background-color: #510d17ab;
+    color:#080808;
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    top: 10px;
+}
+#c2{
+    background-color: #510d17ab;
+    color:#080808;
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    top: 220px;
+}
+#c3{
+    background-color: #510d17ab;
+    color:#080808;
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    top: 430px;
+}
