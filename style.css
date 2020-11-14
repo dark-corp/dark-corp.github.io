@@ -1,1 +1,12 @@
+.pinter{
+    height: 200px;
+    width: 300px;
+}
 
+.printer:target{
+animation: printer 1s 100s infinite;
+}
+@keyframes printer {
+    from {height: 200px;}
+    to {width: 100%;}
+  }
