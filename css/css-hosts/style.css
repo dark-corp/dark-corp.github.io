@@ -1,0 +1,28 @@
+html {
+background-color: #ffffe1;
+font-family: Helvetica;
+display: inline-block;
+margin: 0px auto;
+text-align: center;
+}
+.button {
+background-color: #4a4638;
+border: none;
+color: white;
+padding: 16px 40px;
+text-decoration: none;
+font-size: 30px;
+margin: 2px;
+cursor: pointer;
+}
+.button:hover{
+  background-color: #666151;
+}
+h1{
+  font-family: Helvetica;
+  text-align: center;
+  color: #000000;
+}
+button2 {
+background-color: #666151;
+}
