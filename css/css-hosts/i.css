@@ -1,4 +1,4 @@
-a {
+button {
 height: 40px;
 background-color: #3c3c3c;
 color: #0d7000;
@@ -9,6 +9,6 @@ display: inline-block;
 font-size: 16px;
 cursor: pointer;
 }
-a:hover {
+button:hover {
 color: #129e00;
 }
